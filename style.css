@@ -1,0 +1,62 @@
+header{
+    display: flex;
+    align-items: center;
+    gap: 20%;
+    padding-left: 100px;
+}
+
+ul{
+    display: flex;
+    gap: 20%;
+    list-style: none;
+}
+.image{
+    background-image:url(https://c.pxhere.com/photos/43/a3/laptop_human_hands_keyboard_typing_working_business_office_writing-714530.jpg!d) ;
+    background-position: center;
+    background-size: cover;
+    height: 30rem;
+}
+.creative{
+    padding-left: 600px;
+    padding-top: 170px;
+    color: white;
+}
+.lorem{
+    padding-left: 520px;
+    line-height: 30px;
+    color: white;
+
+}
+
+.icon{
+    display: flex;
+    gap: 20%;
+    margin-left: 15%;
+}
+
+
+.message{
+    background-color: skyblue;
+    color: white;
+    margin-top: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 30px;
+    display: flex;
+
+}
+
+.text{
+    display: flex;
+    margin-left: 15%;
+    gap: 19%;
+    color: skyblue;
+}
+.dolor{
+   display: flex;
+   font-size: 15px;
+   margin-left: 150px;
+
+}
